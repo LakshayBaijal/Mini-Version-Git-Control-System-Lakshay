@@ -1,5 +1,4 @@
-# AOS ASSIGNMENT 4
-# Lakshay Baijal 2024202006
+# Mini Version Git Control System
 
 [Screencast from 2024-11-16 01-14-34.webm](https://github.com/user-attachments/assets/237dd371-d331-47dd-9267-9a87e3dfd8ae)
 
